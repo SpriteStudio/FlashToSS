@@ -1,10 +1,10 @@
 ==============================================================================
 
-  FlashToSS
+  Flash To SS
 
   Flash Exporter Plugin for OPTPiX SpriteStudio
 
-  Copyright(C) 2013 Web Technology Corp.
+  Copyright(C) Web Technology Corp.
 
 ==============================================================================
 
@@ -242,7 +242,7 @@ SS と Flash にはデータ構造、ツールの仕様において異なる点�
 ==============================================================================
 株式会社ウェブテクノロジ  
 http://www.webtech.co.jp/  
-Copyright(C) 2013 Web Technology Corp.  
+Copyright(C) Web Technology Corp.  
 ==============================================================================
 
 * OPTPiX SpriteStudio, Web Technologyは、株式会社ウェブテクノロジの登録商標です。

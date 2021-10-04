@@ -4,7 +4,7 @@
 
   Flash Exporter Plugin for OPTPiX SpriteStudio
 
-  Copyright(C) Web Technology Corp.
+Copyright © CRI Middleware Co., Ltd.
 
 ==============================================================================
 
@@ -245,9 +245,9 @@ SS と Flash にはデータ構造、ツールの仕様において異なる点�
 
 
 ==============================================================================
-株式会社ウェブテクノロジ  
-http://www.webtech.co.jp/  
-Copyright(C) Web Technology Corp.  
+株式会社ＣＲＩ・ミドルウェア
+​https://www.cri-mw.co.jp/
+Copyright © CRI Middleware Co., Ltd.
 ==============================================================================
 
 * OPTPiX SpriteStudio, Web Technologyは、株式会社ウェブテクノロジの登録商標です。
